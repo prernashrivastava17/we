@@ -1,0 +1,31 @@
+.footerContact {
+  background-color: #ff6922;
+  padding: 40px 0;
+  color: #fff;
+}
+.footerContact h1 {
+  font-size: 30px;
+}
+footer {
+  background-color: #1d2636;
+  padding: 50px 0;
+  color: #fff;
+}
+.box a{
+  color: #fff;
+}
+
+footer input {
+  background-color: #fff;
+  padding: 17px;
+  width: 100%;
+  border-radius: 5px;
+}
+
+.legal {
+  text-align: center;
+  padding: 20px;
+  background: #1d2636;
+  color: rgba(255, 255, 255, 0.5);
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+}

@@ -1,0 +1,62 @@
+#pass {
+    margin: 0 auto;
+    color: black;
+    margin-top: 10px;
+    width: 280px;
+    height: 45px;
+    font-size: 18px;
+    margin-bottom: 14px;
+    max-width: 527px;
+    padding: 0 10%;
+    border-radius: 7px;
+    border: 1.5px solid grey;
+  }
+  .required:after {
+    content:" *";
+    color: red;
+  }
+
+  /* label {
+    font-weight: bold;
+    display: block;
+  } */
+  
+  .pass-wrapper {
+    position: relative;
+    margin-bottom: 14px;
+  }
+  
+  .pass-wrapper i {
+    position: absolute;
+    top: 49%;
+    right: 20%;
+  }
+  .pass-wrapper i:hover {
+    color: #ff6922;
+    cursor: pointer;
+  }
+
+  /* admin login pg */
+  #login .container #login-row #login-column #login-box {
+    margin-top: 120px;
+    max-width: 600px;
+    height: 320px;
+    border: 1px solid #9C9C9C;
+    background-color: #EAEAEA;
+  }
+  #login .container #login-row #login-column #login-box #login-form {
+    padding: 20px;
+  }
+  #login .container #login-row #login-column #login-box #login-form #register-link {
+    margin-top: -85px;
+  }
+  #login {
+    background-color: #F5F6FA;
+    height: 100vh;
+}
+.add_cat_modal label {
+  margin-top: 20px;
+}
+.bttn button {
+  padding: 10px;
+}
